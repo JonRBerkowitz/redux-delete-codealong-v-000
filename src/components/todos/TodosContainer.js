@@ -28,4 +28,3 @@ mapDispatchToProps = dispatch => {
 }
 
 export default connect(mapStateToProps)(TodosContainer);
-
